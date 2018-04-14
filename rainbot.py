@@ -19,7 +19,7 @@ config = {
     'logfile': None,  # str or None
     'db_type': 'redis',  # str
     'redis': {
-        'db_index': 3,  # int
+        'db_index': 0,  # int
         'prefix': 'RainBot',  # str
         'host': 'localhost',  # str
     },
