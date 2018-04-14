@@ -5,7 +5,9 @@ The time zone is fast calculated offline by the user's geolocation thanks to [ti
 
 # Commands
 /start
+
 /forecast - today forecast
+
 /stop - stop alerts (removes a job from scheduler)
 
 # Requirements:
