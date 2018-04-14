@@ -21,4 +21,4 @@ The time zone is fast calculated offline by the user's geolocation thanks to [ti
 - [python-dateutil](https://github.com/dateutil/dateutil/)
 
 ## Example
-![rainbot imgage](https://github.com/noisywiz/rainbot/blob/master/image.png)
+![rainbot imgage](https://github.com/noisywiz/rainbot/blob/master/image.png){:width="200px"}
