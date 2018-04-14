@@ -4,11 +4,9 @@ The telegram bot notifies you if you need to take an umbrella today:) Tell him y
 The time zone is fast calculated offline by the user's geolocation thanks to [timezonefinder](https://github.com/MrMinimal64/timezonefinder). Scheduling jobs (sending alerts) is by [apscheduler](https://github.com/agronholm/apscheduler) in Redis.
 
 # Commands
-/start
-
-/forecast - today forecast
-
-/stop - stop alerts (removes a job from scheduler)
+- /start
+- /forecast - today forecast
+- /stop - stop alerts (removes a job from scheduler)
 
 # Requirements:
 - Python3
