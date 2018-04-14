@@ -19,3 +19,6 @@ The time zone is fast calculated offline by the user's geolocation thanks to [ti
 - [timezonefinder](https://github.com/MrMinimal64/timezonefinder)
 - [apscheduler](https://github.com/agronholm/apscheduler)
 - [python-dateutil](https://github.com/dateutil/dateutil/)
+
+## Example
+![rainbot imgage](https://github.com/noisywiz/rainbot/blob/master/image.png)
