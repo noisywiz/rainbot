@@ -24,7 +24,7 @@ config = {
         'host': 'localhost',  # str
     },
     # Statuses for alerts (rain is 0...12). Codes: https://developer.yahoo.com/weather/documentation.html
-    'alert_statuses': [str(i) for i in range(0, 13)],
+    'alert_statuses': ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '17', '35', '37', '38', '39', '40', '45', '47'],
     'anyway_alert': False,  # Send notifications despite the status
 }
 
